@@ -1,0 +1,5 @@
+{
+  "name": "heroku_deployment",
+  "private": true,
+  "dependencies": {}
+}
